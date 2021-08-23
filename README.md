@@ -1,17 +1,15 @@
 ### Oii, sou o Vinicius Mesquita 👋
 
 - 🔭 Hoje trabalho com Sistema ERP
-- 🌱 Estudando Análise e Projeto de Software
-- 😄 Pronouns: ...
+- 🌱 Estudando Análise e Projeto de Software   <img align="right" alt="Rafa-yoda" src="https://i.picasion.com/pic91/8faec4bf2b98d7abda4ab40a1cd439b6.gif">
+ 
+
 ##
-<div>
-  <a href="https://github.com/vinnimesquita">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinnimesquita&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnimesquita&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
-  ##
-  # Minhas habilidades
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnimesquita&show_icons=true&theme=radical)
+  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnimesquita&layout=compact&langs_count=7&theme=radical"/>
+ 
+  <h1> Minhas habilidades</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,6 +17,7 @@
   <img align="center" alt="Vini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
 </div>
+
   
  ##
  # Conecte-se comigo
