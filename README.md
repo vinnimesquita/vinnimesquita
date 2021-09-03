@@ -1,4 +1,4 @@
-### Oii, sou o Vinicius Mesquita 👋
+### Olá, eu sou o Vinicius Mesquita 👋
 
 - 🔭 Hoje trabalho com Sistema ERP
 - 🌱 Estudando Análise e Projeto de Software   <img align="right" alt="Rafa-yoda" src="https://i.picasion.com/pic91/8faec4bf2b98d7abda4ab40a1cd439b6.gif">
