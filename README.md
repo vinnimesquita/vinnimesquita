@@ -5,7 +5,7 @@
  
 ##
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnimesquita&show_icons=true&theme=radical)
-  <img height="180em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnimesquita&layout=compact&langs_count=7&theme=radical"/>
+  <img height="200em" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnimesquita&layout=compact&langs_count=7&theme=radical"/>
  
  <h2>Minhas habilidades</h2>
  
