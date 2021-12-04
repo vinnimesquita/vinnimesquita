@@ -10,7 +10,7 @@
  <h2>Minhas habilidades</h2>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vini-erp" height="30" width="40" src="https://cdn-icons.flaticon.com/png/512/5129/premium/5129557.png?token=exp=1638655513~hmac=ef850ff5e8f1752e9a066e57060e1648">
+  <img align="center" alt="Vini-erp" height="40" width="40" src="https://cdn-icons.flaticon.com/png/512/5129/premium/5129557.png?token=exp=1638655513~hmac=ef850ff5e8f1752e9a066e57060e1648">
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
