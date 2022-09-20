@@ -1,7 +1,7 @@
 ### Olá, eu sou o Vinicius Mesquita 👋
 
 - 🔭 Hoje trabalho com Sistema ERP e Banco de Dados
-- 🌱 Estudando Análise e Projeto de Software   <img align="right" alt="Rafa-yoda" src="https://i.picasion.com/pic91/8faec4bf2b98d7abda4ab40a1cd439b6.gif">
+- 🌱 Estudando Linguagem C#   <img align="right" alt="Rafa-yoda" src="https://i.picasion.com/pic91/8faec4bf2b98d7abda4ab40a1cd439b6.gif">
  
 ##
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinnimesquita&show_icons=true&theme=tokyonight)
